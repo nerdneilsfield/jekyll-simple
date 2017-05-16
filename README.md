@@ -1,5 +1,7 @@
 # jekyll-simple
 
+> 在原版的基礎上添加了對數學公式鍵入的支持。
+
 ## simple
 simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
